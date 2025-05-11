@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nino</h1>
-<h3 align="center">A student from Indonesia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninostn&label=Profile%20views&color=0e75b6&style=flat" alt="ninostn" /> </p>
 
 - 🌱 I’m currently learning **C++, C#, And PHP**
