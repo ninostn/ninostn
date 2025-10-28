@@ -1,21 +1,22 @@
 # 💫 About Me:
-Heyy, aku **Nino Satriani** 👋  
-Pelajar yang suka banget ngoding, ngulik hal baru, dan kadang bikin project random cuma buat seru-seruan 😆  
+Heyy, I'm **Nino Satriani** 👋  
+A student who loves coding, exploring new stuff, and sometimes building random projects just for fun 😆  
 
-🔭 **Lagi ngerjain:**  
-Program kasir pake C# Console & eksperimen robot line follower Arduino.  
+🔭 **Currently working on:**  
+A simple cashier app using C# Console and a line follower robot with Arduino.  
 
-🌱 **Sekarang lagi belajar:**  
-C#, .NET, HTML, CSS, sama MySQL — biar bisa bikin aplikasi beneran 💻  
+🌱 **Currently learning:**  
+C#, .NET, HTML, CSS, and MySQL — trying to build something real 💻  
 
-💬 **Tanya aku soal:**  
-Login-register system, project beginner, atau tips belajar coding santai tapi tetep jalan 😎  
+💬 **Ask me about:**  
+Login/register systems, beginner projects, or chill ways to learn coding 😎  
 
-👯 **Pengen kolab bareng:**  
-Siapa aja yang lagi belajar coding juga, biar bisa sharing dan berkembang bareng.  
+👯 **Looking to collaborate on:**  
+Any small project with other learners — let’s grow together 🚀  
 
 ⚡ **Fun fact:**  
 Mirip Kairi
+
 
 
 ## 🌐 Socials:
