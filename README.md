@@ -1,11 +1,3 @@
-<!-- Banner / Intro -->
-<h1 align="center">Hi there 👋, I'm Nino Satriani</h1>
-<p align="center">
-  💻 Pelajar yang suka ngoding, ngulik hal baru, dan bikin projek seru-seruan 😆  
-</p>
-
----
-
 # 💫 About Me:
 Heyy, aku **Nino Satriani** 👋  
 Pelajar yang suka banget ngoding, ngulik hal baru, dan kadang bikin project random cuma buat seru-seruan 😆  
@@ -25,46 +17,30 @@ Siapa aja yang lagi belajar coding juga, biar bisa sharing dan berkembang bareng
 ⚡ **Fun fact:**  
 Mirip Kairi
 
----
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=00ff66)](https://youtube.com/@ninostn)
-[![Email](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00ff66)](mailto:ninostrn@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ninostn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ninostrn@gmail.com) 
 
----
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat&logo=html5&logoColor=00ff66)
-![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=flat&logo=css3&logoColor=00ff66)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat&logo=javascript&logoColor=00ff66)
-![C](https://img.shields.io/badge/C-0A0A0A?style=flat&logo=c&logoColor=00ff66)
-![C++](https://img.shields.io/badge/C++-0A0A0A?style=flat&logo=c%2B%2B&logoColor=00ff66)
-![C#](https://img.shields.io/badge/C%23-0A0A0A?style=flat&logo=c-sharp&logoColor=00ff66)
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat&logo=python&logoColor=00ff66)
-![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=flat&logo=php&logoColor=00ff66)
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=flat&logo=mysql&logoColor=00ff66)
-![.NET](https://img.shields.io/badge/.NET-0A0A0A?style=flat&logo=dotnet&logoColor=00ff66)
-![Arduino](https://img.shields.io/badge/Arduino-0A0A0A?style=flat&logo=arduino&logoColor=00ff66)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
----
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ninostn&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=ninostn&theme=chartreuse-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ninostn&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ninostn&theme=chartreuse-dark&show_icons=true&hide_border=false&border_color=00ff66&include_all_commits=true&count_private=true" height="160px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ninostn&theme=chartreuse-dark&hide_border=false&border=00ff66" height="160px"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninostn&theme=chartreuse-dark&hide_border=false&border_color=00ff66&layout=compact" height="120px"/>
+</div>
 
----
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=ninostn&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ninostn&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo:
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ninostn&limit=5&theme=chartreuse-dark&border_color=00ff66&combine_all_yearly_contributions=true"/>
+</div>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ninostn&icon=0&color=00ff66)](https://visitcount.itsvg.in)
 
-<!-- Proudly customized by Nino Satriani | inspired by GPRM (https://gprm.itsvg.in) -->
+<!-- Proudly customized by Nino Satriani -->
