@@ -29,15 +29,12 @@ Mirip Kairi
 
 # 📊 GitHub Stats:
   <img src="https://github-readme-stats.vercel.app/api?username=ninostn&theme=chartreuse-dark&show_icons=true&hide_border=false&border_color=00ff66&include_all_commits=true&count_private=true" height="160px"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninostn&theme=chartreuse-dark&hide_border=false&border_color=00ff66&layout=compact" height="120px"/>
 
 
 ### 🔝 Top Contributed Repo:
-<div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ninostn&limit=5&theme=chartreuse-dark&border_color=00ff66&combine_all_yearly_contributions=true"/>
-</div>
-
+  
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ninostn&icon=0&color=00ff66)](https://visitcount.itsvg.in)
