@@ -26,7 +26,11 @@ C#, .NET, HTML, CSS, and MySQL — trying to build something real 💻
   <img src="https://github-contributor-stats.vercel.app/api?username=ninostn&limit=5&theme=chartreuse-dark&border_color=00ff66&combine_all_yearly_contributions=true"/>
   
 ---
+###
 
+<img src="https://raw.githubusercontent.com/maurodesouzak/maurodesouzak/output/snake.svg" alt="Snake animation" />
+
+###
 [![](https://visitcount.itsvg.in/api?id=ninostn&icon=0&color=00ff66)](https://visitcount.itsvg.in)
 
 <!-- Proudly customized by Nino Satriani -->
