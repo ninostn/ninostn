@@ -8,16 +8,6 @@ A simple cashier app using C# Console and a line follower robot with Arduino.
 🌱 **Currently learning:**  
 C#, .NET, HTML, CSS, and MySQL — trying to build something real 💻  
 
-💬 **Ask me about:**  
-Login/register systems, beginner projects, or chill ways to learn coding 😎  
-
-👯 **Looking to collaborate on:**  
-Any small project with other learners — let’s grow together 🚀  
-
-⚡ **Fun fact:**  
-Mirip Kairi
-
-
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ninostn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ninostrn@gmail.com) 
