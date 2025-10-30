@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzak/maurodesouzak/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzak/maurodesouzak/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzak/maurodesouzak/output/pacman-contribution-graph.svg">
+</picture>
+
 # 💫 About Me:
 Heyy, I'm **Nino Satriani** 👋  
 A student who loves coding, exploring new stuff, and sometimes building random projects just for fun 😆  
@@ -26,11 +32,7 @@ C#, .NET, HTML, CSS, and MySQL — trying to build something real 💻
   <img src="https://github-contributor-stats.vercel.app/api?username=ninostn&limit=5&theme=chartreuse-dark&border_color=00ff66&combine_all_yearly_contributions=true"/>
   
 ---
-###
 
-<img src="https://raw.githubusercontent.com/maurodesouzak/maurodesouzak/output/snake.svg" alt="Snake animation" />
-
-###
 [![](https://visitcount.itsvg.in/api?id=ninostn&icon=0&color=00ff66)](https://visitcount.itsvg.in)
 
 <!-- Proudly customized by Nino Satriani -->
