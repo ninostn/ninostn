@@ -18,16 +18,13 @@ C#, .NET, HTML, CSS, and MySQL — trying to build something real 💻
 
 
 # 📊 GitHub Stats:
-  <img src="https://github-readme-stats.vercel.app/api?username=ninostn&theme=chartreuse-dark&show_icons=true&hide_border=false&border_color=00ff66&cache_seconds=3600" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninostn&theme=chartreuse-dark&hide_border=false&border_color=00ff66&layout=compact&cache_seconds=3600" height="120px"/>
+![](https://github-readme-stats.vercel.app/api?username=ninostn&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ninostn&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ninostn&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ninostn&limit=5&theme=jolly&combine_all_yearly_contributions=true)
 
-
-### 🔝 Top Contributed Repo:
-  <img src="https://github-contributor-stats.vercel.app/api?username=ninostn&limit=5&theme=chartreuse-dark&border_color=00ff66&combine_all_yearly_contributions=true"/>
-  
 ---
+[![](https://visitcount.itsvg.in/api?id=ninostn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=ninostn&icon=0&color=00ff66)](https://visitcount.itsvg.in)
-
-<!-- Proudly customized by Nino Satriani -->
