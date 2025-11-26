@@ -24,7 +24,5 @@ C#, .NET, HTML, CSS, and MySQL — trying to build something real 💻
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ninostn&limit=5&theme=jolly&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=ninostn&icon=0&color=0)](https://visitcount.itsvg.in)
 
