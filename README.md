@@ -18,8 +18,9 @@ C#, .NET, HTML, CSS, and MySQL — trying to build something real 💻
 
 
 # 📊 GitHub Stats:
-  <img src="https://github-readme-stats.vercel.app/api?username=ninostn&theme=chartreuse-dark&show_icons=true&hide_border=false&border_color=00ff66&include_all_commits=true&count_private=true" height="160px"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninostn&theme=chartreuse-dark&hide_border=false&border_color=00ff66&layout=compact" height="120px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ninostn&theme=chartreuse-dark&show_icons=true&hide_border=false&border_color=00ff66&cache_seconds=3600" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninostn&theme=chartreuse-dark&hide_border=false&border_color=00ff66&layout=compact&cache_seconds=3600" height="120px"/>
+
 
 
 ### 🔝 Top Contributed Repo:
